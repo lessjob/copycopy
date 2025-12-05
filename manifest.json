@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "复制解除助手",
+  "name": "copycopy",
   "version": "1.0",
   "description": "解除网页复制、右键和文本选择限制",
   "author": "thanksgboy@hotmail.com",
