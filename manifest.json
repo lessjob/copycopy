@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "copycopy",
+  "name": "CopyCopy",
   "version": "1.0",
-  "description": "解除网页复制、右键和文本选择限制",
+  "description": "CopyCopy is designed to address and completely remove the restrictions on copying from certain websites. With one click, you can remove these restrictions, and with another click, you can restore them. It's so delightful!",
   "author": "thanksgboy@hotmail.com",
   "permissions": [
     "activeTab",
